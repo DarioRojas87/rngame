@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Bienvenidos a RNGame ( Random Number Generator game)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto esta hosteado en [RNGame](https://bloody-suit.surge.sh/).
 
-## Available Scripts
+## Instalacion
 
-In the project directory, you can run:
+Basta con usar los comandos npm install y luego npm start para poder levantar la app en local
 
 ### `npm start`
 
